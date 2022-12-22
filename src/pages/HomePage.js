@@ -1,5 +1,11 @@
+import HomeVideo from "../features/HomeVideo";
+
 const HomePage = () => {
-    return <div>HomePage</div>;
+    return (
+        <>
+            <HomeVideo />
+        </>
+    )
 };
 
 export default HomePage;
