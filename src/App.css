@@ -36,6 +36,10 @@ h2 {
     margin-top: 2rem;
 }
 
+.site-footer :any-link {
+    color: white;
+}
+
 .navbar-brand {
     max-width: 4rem;
     margin-right: 2rem;

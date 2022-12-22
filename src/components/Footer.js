@@ -23,10 +23,11 @@ const Footer = () => {
                             </li>
                         </ul>
                     </Col>
-                    <Col xs='6' sm='4' className='text-center'>
+                    <Col xs="6" sm="4" className="text-center">
                         <p>
                             Exercise at your own risk! See healthcare provider
-                            prior to starting.
+                            prior to starting. Better Back Health is not
+                            responsible for any harm or injury that may be done.
                         </p>
                     </Col>
                     <Col sm="4" className="text-center">
