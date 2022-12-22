@@ -78,3 +78,8 @@ h2 {
     opacity: 0;
     transition: 300ms ease-in;
 }
+
+.site-subheader {
+    margin: 0;
+}
+
