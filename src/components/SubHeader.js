@@ -11,6 +11,7 @@ const SubHeader = ({ current }) => {
                     </BreadcrumbItem>
                     <BreadcrumbItem active>{current}</BreadcrumbItem>
                 </Breadcrumb>
+                <hr />
             </Col>
         </Row>
     );

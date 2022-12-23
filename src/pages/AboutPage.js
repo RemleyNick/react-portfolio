@@ -1,5 +1,6 @@
 import SubHeader from "../components/SubHeader";
 import { Col, Row, Container, Card, CardBody, CardHeader } from "reactstrap";
+import ProgramDetail from "../features/ProgramDetail";
 
 const AboutPage = () => {
     return (
@@ -68,6 +69,7 @@ const AboutPage = () => {
                     </Card>
                 </Col>
             </Row>
+            <ProgramDetail />
         </Container>
     );
 };
