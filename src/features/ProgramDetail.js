@@ -4,7 +4,7 @@ const ProgramDetail = () => {
     return (
         <Container>
             <Row>
-                <Col lg='4'>
+                <Col lg='4' className="mt-4">
                     <h2>A Better Way of Living.</h2>
                 </Col>
                 <Col lg='8' className="mb-5 mt-5">

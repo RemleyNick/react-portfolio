@@ -8,7 +8,7 @@ const AboutPage = () => {
             <SubHeader current="About" />
             <Row className="row-content">
                 <Col sm="6">
-                    <h3>The Mission</h3>
+                    <h2>The Mission</h2>
                     <p>
                         Exercise can be time consuming and gym memberships can
                         be expensive. If those barriers are not big enough, how
@@ -27,20 +27,20 @@ const AboutPage = () => {
                         </CardHeader>
                         <CardBody>
                             <dl className="row">
-                                <dt className="col-6">Pain in Life - </dt>
-                                <dd className="col-6">
+                                <dt className="col-4">Pain in Life - </dt>
+                                <dd className="col-8">
                                     8 out of 10 Americans will experience back pain in their lives
                                 </dd>
-                                <dt className="col-6">Pain today - </dt>
-                                <dd className="col-6">
+                                <dt className="col-4">Pain today - </dt>
+                                <dd className="col-8">
                                     3 out of 10 Americans hurt right now
                                 </dd>
-                                <dt className="col-6">Surgery - </dt>
-                                <dd className="col-6">
+                                <dt className="col-4">Surgery - </dt>
+                                <dd className="col-8">
                                     Half a million back surgeries a year in U.S
                                 </dd>
-                                <dt className="col-6">Expensive - </dt>
-                                <dd className="col-6">
+                                <dt className="col-4">Expensive - </dt>
+                                <dd className="col-8">
                                     $12 billion/yr and 6th most costly condition
                                     in U.S
                                 </dd>
