@@ -45,11 +45,12 @@ h2 {
     margin-right: 2rem;
 }
 
-.navbar-brand i {
+.navbar-brand img {
     width: 100%;
     height: 100%;
     margin-right: 2rem;
     max-width: 4rem;
+    border-radius: 30%;
 }
 
 .navbar-dark {

@@ -8,6 +8,8 @@ import {
     NavItem,
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
+import BbhLogo from '../app/assests/bbhLogo2.png';
+
 
 const Header = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -15,7 +17,7 @@ const Header = () => {
     return (
         <Navbar dark sticky='top' expand='md'>
             <NavbarBrand className='ms-5' href='/'>
-                <h3 className='mt-1'>Better Back Health</h3>
+                <img src={BbhLogo} alt='Better Back Health Logo' className='float-start' />
             </NavbarBrand>
             <NavbarToggler onClick={() => setMenuOpen(!menuOpen)}/>
             <Collapse isOpen={menuOpen} navbar>

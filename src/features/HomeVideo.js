@@ -8,8 +8,8 @@ function HomeVideo() {
     return (
         <div className="home-container">
             <video src="/videos/video.mp4" autoPlay loop muted />
-            <h1>Pain Relief Awaits</h1>
-            <p>What are you waiting for?</p>
+            <h1>Better Back Health</h1>
+            <p>Pain Relief Awaits! What are you waiting for?</p>
             <div className="home-btns">
                 <Link to="/exercise">
                     <Button
