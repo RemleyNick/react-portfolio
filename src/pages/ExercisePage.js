@@ -9,6 +9,7 @@ const ExercisePage = () => {
         <h1 className="text-center">Rate Your Pain Levels Today</h1>
         <h4 className="text-center">Rating is 1 - 10, 10 being extreme pain.</h4>
         <Counter /> 
+        <p className="text-center">Exercise challenge will be based on your pain rating. The higher your pain today, the easier the exercise.</p>
         <ExerciseModal />
     </div>
     )
