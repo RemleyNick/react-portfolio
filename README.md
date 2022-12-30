@@ -1,4 +1,14 @@
-# Getting Started with Create React App and Redux
+# Better Back Health
+
+A React project to help individuals suffering from back pain.
+
+## Description
+
+This application allows the user to enter their daily pain score that day, and based on their pain rating, a corresponding exercise will populate. In the future, I will add the ability for multiple exercises to populate for each pain rating.
+
+---
+
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
