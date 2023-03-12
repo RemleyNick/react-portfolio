@@ -10,14 +10,7 @@ const AboutPage = () => {
                 <Col sm="6">
                     <h2>The Mission</h2>
                     <p>
-                        Exercise can be time consuming and gym memberships can
-                        be expensive. If those barriers are not big enough, how
-                        about the hurdle of knowing which exercises to perform
-                        and how hard to push it? Our goal is to minimize those
-                        barriers and have you taking steps forward towards a
-                        pain-free you! Play an active role in reducing your
-                        short and long-term pain with these quick exercises,
-                        customized based on your daily pain rating.
+                    Regular exercise is important for overall health, but it can be difficult to fit into a busy schedule or afford pricey gym memberships. Additionally, it can be challenging to know which exercises are most effective and how much to push yourself. At Better Back Health, we strive to eliminate these barriers and help you achieve a pain-free lifestyle. Our tailored exercise program is designed to help you reduce short and long-term pain through quick, targeted exercises customized to your daily pain rating. Take an active role in your pain management and start making progress towards a healthier you.
                     </p>
                 </Col>
                 <Col sm="6">
